@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @BRIAN-pixel275
-- 👀 I’m interested in ...learning how to code 
-- 🌱 I’m currently learning ... html coding language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...just a call away
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...i speak alot
+# Hi there 👋, I'm Brian
+
+## 🚀 About Me
+- 💻 Passionate Web Developer
+- 🌱 Currently learning HTML, CSS & JavaScript
+- 🎯 Building real-world projects
+- ⚡ Turning ideas into live websites
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📌 Projects
+- 🚗 Turbo Tales Imports Website  
+  👉 https://turbotalesimports.netlify.app/
+
+## 📫 Connect With Me
+- Email: brayo2933@gmail.com 
+- LinkedIn: BrianMuchiru
+
+---
+⭐️ *"Consistency builds mastery"*
 
 <!---
 BRIAN-pixel275/BRIAN-pixel275 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
