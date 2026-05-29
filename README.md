@@ -18,7 +18,7 @@
 
 ##  Connect With Me
 - Email: brayo2933@gmail.com 
-- LinkedIn: BrianMuchiru
+- LinkedIn: https://www.linkedin.com/in/brian-muchiru-b0b057356/
 
 ---
  *"Consistency builds mastery"*
