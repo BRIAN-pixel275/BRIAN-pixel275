@@ -121,17 +121,21 @@ goal:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-Replace `BRIAN-pixel275` below with your username where required by the image services.
+<div align="center">
 
-```text
-https://github-readme-stats.vercel.app/api?username=BRIAN-pixel275
-https://github-readme-streak-stats.herokuapp.com/?user=BRIAN-pixel275
-https://github-readme-activity-graph.vercel.app/graph?username=BRIAN-pixel275
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRIAN-pixel275&show_icons=true&theme=github_dark&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BRIAN-pixel275&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=BRIAN-pixel275&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ## 📫 Connect
 
