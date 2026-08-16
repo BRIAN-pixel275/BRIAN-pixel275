@@ -6,7 +6,7 @@
 
 **Software Developer • Finance Systems • Web Applications • Java Learner**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://brianmuchiruportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://brianportfolio-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Muchiru-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-muchiru-b0b057356/)
 [![Email](https://img.shields.io/badge/Email-brayo2933@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:brayo2933@gmail.com)
 
@@ -89,7 +89,7 @@ React • Vite • Tailwind CSS
 ## Portfolio Website
 
 Live:
-https://brianmuchiruportfolio.netlify.app/
+https://brianportfolio-eight.vercel.app/
 
 ---
 
