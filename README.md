@@ -139,7 +139,7 @@ goal:
 
 ## 📫 Connect
 
-- Portfolio: https://brianmuchiruportfolio.netlify.app/
+- Portfolio:https://brianportfolio-eight.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/brian-muchiru-b0b057356/
 - Email: brayo2933@gmail.com
 
