@@ -63,7 +63,16 @@ I'm an Economics & Finance student building software at the intersection of fina
 
 <!-- PROJECTS:START -->
 <!-- This section is updated automatically by .github/workflows/update-readme.yml — don't edit by hand -->
-_Projects will appear here after the first workflow run._
+| Project | Description | Language | ⭐ |
+|---|---|---|---|
+| [**trace-finder**](https://github.com/BRIAN-pixel275/trace-finder) | — | Java | 0 |
+| [**kukisa-registration**](https://github.com/BRIAN-pixel275/kukisa-registration) | — | JavaScript | 0 |
+| [**creditscoreAfrica**](https://github.com/BRIAN-pixel275/creditscoreAfrica) | — | — | 0 |
+| [**portfolio**](https://github.com/BRIAN-pixel275/portfolio) | — | CSS | 0 |
+| [**elevara-legacy**](https://github.com/BRIAN-pixel275/elevara-legacy) | — | JavaScript | 0 |
+| [**HospitalManagementSystem**](https://github.com/BRIAN-pixel275/HospitalManagementSystem) | — | Java | 0 |
+| [**Brian-Muchiru-Portfolio**](https://github.com/BRIAN-pixel275/Brian-Muchiru-Portfolio) | A premium developer portfolio built with React, Tailwind CSS, and Framer Motion. | JavaScript | 0 |
+| [**kood-java**](https://github.com/BRIAN-pixel275/kood-java) | everything learnt in Kood/Nairobi selection sprint 2026 | Java | 0 |
 <!-- PROJECTS:END -->
 
 ---
@@ -103,4 +112,4 @@ Open for freelance web development, FinTech collaborations, and client projects.
 > "Practice doesn't just make perfect — it builds experience one project at a time."
 ```
 
-<sub>Last synced: <!-- LAST_UPDATED:START -->never yet<!-- LAST_UPDATED:END --></sub>
+<sub>Last synced: <!-- LAST_UPDATED:START -->2026-09-18 16:45 UTC<!-- LAST_UPDATED:END --></sub>
