@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0E17"/>
+      <stop offset="100%" stop-color="#101828"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <g stroke="#0B8C7D" stroke-opacity="0.25" stroke-width="1">
+    <line x1="0" y1="55" x2="1200" y2="55"/>
+    <line x1="0" y1="165" x2="1200" y2="165"/>
+    <line x1="300" y1="0" x2="300" y2="220"/>
+    <line x1="900" y1="0" x2="900" y2="220"/>
+  </g>
+  <circle cx="300" cy="55" r="4" fill="#00E5CC"/>
+  <circle cx="900" cy="165" r="4" fill="#00E5CC"/>
+  <text x="60" y="100" font-family="Consolas, Menlo, monospace" font-size="34" fill="#E6EDF3" font-weight="600">Brian Muchiru</text>
+  <text x="60" y="140" font-family="Consolas, Menlo, monospace" font-size="18" fill="#00E5CC">Hi, I'm Brian. I build finance &amp; POS systems that work.</text>
+  <text x="60" y="170" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8B98A9">Economics &amp; Finance @ Kenyatta University &#183; Founder, Kreative Studio</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64">
+  <rect width="1200" height="64" fill="#0A0E17"/>
+  <clipPath id="clip"><rect width="1200" height="64"/></clipPath>
+  <g clip-path="url(#clip)">
+    <g>
+      
+    <rect x="0" y="15" width="70" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="35.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">React</text>
+    <rect x="110" y="15" width="60" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="140.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Vite</text>
+    <rect x="210" y="15" width="90" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="255.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Next.js</text>
+    <rect x="340" y="15" width="140" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="410.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Tailwind CSS</text>
+    <rect x="520" y="15" width="120" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="580.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">JavaScript</text>
+    <rect x="680" y="15" width="60" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="710.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Java</text>
+    <rect x="780" y="15" width="90" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="825.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Node.js</text>
+    <rect x="910" y="15" width="100" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="960.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Firebase</text>
+    <rect x="1050" y="15" width="100" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="1100.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Supabase</text>
+    <rect x="1190" y="15" width="80" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="1230.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">SQLite</text>
+    <rect x="1310" y="15" width="50" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="1335.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Git</text>
+    <rect x="1400" y="15" width="90" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="1445.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Netlify</text>
+    <rect x="1530" y="15" width="80" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="1570.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Vercel</text>
+      
+    <rect x="1650" y="15" width="70" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="1685.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">React</text>
+    <rect x="1760" y="15" width="60" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="1790.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Vite</text>
+    <rect x="1860" y="15" width="90" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="1905.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Next.js</text>
+    <rect x="1990" y="15" width="140" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="2060.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Tailwind CSS</text>
+    <rect x="2170" y="15" width="120" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="2230.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">JavaScript</text>
+    <rect x="2330" y="15" width="60" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="2360.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Java</text>
+    <rect x="2430" y="15" width="90" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="2475.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Node.js</text>
+    <rect x="2560" y="15" width="100" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="2610.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Firebase</text>
+    <rect x="2700" y="15" width="100" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="2750.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Supabase</text>
+    <rect x="2840" y="15" width="80" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="2880.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">SQLite</text>
+    <rect x="2960" y="15" width="50" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="2985.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Git</text>
+    <rect x="3050" y="15" width="90" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="3095.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Netlify</text>
+    <rect x="3180" y="15" width="80" height="34" rx="17" fill="#101828" stroke="#0B8C7D"/>
+    <text x="3220.0" y="37" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#00E5CC">Vercel</text>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-1650,0" dur="28s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 74" width="960" height="74">
+  <rect width="960" height="74" fill="#0A0E17"/>
+  
+    <text x="20" y="45" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">JavaScript</text>
+    <rect x="180" y="30" width="700" height="18" rx="9" fill="#101828"/>
+    <rect x="180" y="30" width="700" height="18" rx="9" fill="#00E5CC"/>
+    <text x="892" y="45" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">100.0%</text>
+</svg>

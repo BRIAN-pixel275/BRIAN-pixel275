@@ -1,0 +1,49 @@
+name: Update profile assets and README
+
+on:
+  schedule:
+    # GitHub can't ping this repo the instant you create a new repo elsewhere,
+    # so a schedule is what keeps this "self-updating". Runs every 6 hours.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate SVG assets (banner, links, skills, language pulse, build map)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_assets.py
+
+      - name: Update recent-builds table in README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readme.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/ README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update profile assets and README"
+          git push

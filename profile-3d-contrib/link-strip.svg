@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 641 80" width="641" height="80">
+  <rect width="641" height="80" fill="#0A0E17"/>
+  
+    <rect x="40" y="20" width="127" height="40" rx="20" fill="#101828" stroke="#0B8C7D" stroke-width="1.5"/>
+    <circle cx="62" cy="40" r="5" fill="#00E5CC"/>
+    <text x="78" y="45" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E6EDF3">Portfolio</text>
+    <rect x="183" y="20" width="118" height="40" rx="20" fill="#101828" stroke="#0B8C7D" stroke-width="1.5"/>
+    <circle cx="205" cy="40" r="5" fill="#00E5CC"/>
+    <text x="221" y="45" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E6EDF3">LinkedIn</text>
+    <rect x="317" y="20" width="91" height="40" rx="20" fill="#101828" stroke="#0B8C7D" stroke-width="1.5"/>
+    <circle cx="339" cy="40" r="5" fill="#00E5CC"/>
+    <text x="355" y="45" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E6EDF3">Email</text>
+    <rect x="424" y="20" width="181" height="40" rx="20" fill="#101828" stroke="#0B8C7D" stroke-width="1.5"/>
+    <circle cx="446" cy="40" r="5" fill="#00E5CC"/>
+    <text x="462" y="45" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E6EDF3">Kreative Studio</text>
+</svg>
