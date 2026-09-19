@@ -3,26 +3,26 @@
   
     <text x="20" y="45" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">JavaScript</text>
     <rect x="180" y="30" width="700" height="18" rx="9" fill="#101828"/>
-    <rect x="180" y="30" width="353" height="18" rx="9" fill="#00E5CC"/>
-    <text x="892" y="45" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">50.4%</text>
+    <rect x="180" y="30" width="330" height="18" rx="9" fill="#00E5CC"/>
+    <text x="892" y="45" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">47.2%</text>
     <text x="20" y="79" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">CSS</text>
     <rect x="180" y="64" width="700" height="18" rx="9" fill="#101828"/>
-    <rect x="180" y="64" width="159" height="18" rx="9" fill="#5EEAD4"/>
-    <text x="892" y="79" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">22.8%</text>
+    <rect x="180" y="64" width="149" height="18" rx="9" fill="#5EEAD4"/>
+    <text x="892" y="79" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">21.3%</text>
     <text x="20" y="113" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">Java</text>
     <rect x="180" y="98" width="700" height="18" rx="9" fill="#101828"/>
-    <rect x="180" y="98" width="111" height="18" rx="9" fill="#2DD4BF"/>
-    <text x="892" y="113" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">15.9%</text>
+    <rect x="180" y="98" width="149" height="18" rx="9" fill="#2DD4BF"/>
+    <text x="892" y="113" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">21.3%</text>
     <text x="20" y="147" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">HTML</text>
     <rect x="180" y="132" width="700" height="18" rx="9" fill="#101828"/>
-    <rect x="180" y="132" width="57" height="18" rx="9" fill="#0EA5A0"/>
-    <text x="892" y="147" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">8.2%</text>
+    <rect x="180" y="132" width="53" height="18" rx="9" fill="#0EA5A0"/>
+    <text x="892" y="147" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">7.6%</text>
     <text x="20" y="181" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">Python</text>
     <rect x="180" y="166" width="700" height="18" rx="9" fill="#101828"/>
-    <rect x="180" y="166" width="15" height="18" rx="9" fill="#0B8C7D"/>
-    <text x="892" y="181" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">2.2%</text>
+    <rect x="180" y="166" width="14" height="18" rx="9" fill="#0B8C7D"/>
+    <text x="892" y="181" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">2.0%</text>
     <text x="20" y="215" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">TypeScript</text>
     <rect x="180" y="200" width="700" height="18" rx="9" fill="#101828"/>
     <rect x="180" y="200" width="4" height="18" rx="9" fill="#065F5A"/>
-    <text x="892" y="215" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">0.6%</text>
+    <text x="892" y="215" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">0.5%</text>
 </svg>
