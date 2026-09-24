@@ -22,6 +22,7 @@
 <!-- This section is updated automatically by .github/workflows/update-profile.yml — don't edit by hand -->
 | Project | Description | Language | ⭐ |
 |---|---|---|---|
+| [**Cypher-Tool-**](https://github.com/BRIAN-pixel275/Cypher-Tool-) | A command-line Java tool for encrypting and decrypting messages using ROT13, Atbash, and Caesar ciphers | — | 0 |
 | [**rental-tracker**](https://github.com/BRIAN-pixel275/rental-tracker) | A CLI app for tracking your own rentable items — listing, renting out, and confirming returns — built on a five-layer architecture over SQLite. | Java | 0 |
 | [**time-window-filter-**](https://github.com/BRIAN-pixel275/time-window-filter-) | — | Java | 1 |
 | [**trace-finder**](https://github.com/BRIAN-pixel275/trace-finder) | TraceFinder is a Java command-line application that analyzes access logs using a CSV-based rulebook. It identifies normal activity, flags entries with higher severity levels, detects unknown activity patterns, and reports malformed log lines. | Java | 0 |
@@ -29,7 +30,6 @@
 | [**creditscoreAfrica**](https://github.com/BRIAN-pixel275/creditscoreAfrica) | — | — | 0 |
 | [**portfolio**](https://github.com/BRIAN-pixel275/portfolio) | portfolio website for a software engineer | CSS | 0 |
 | [**elevara-legacy**](https://github.com/BRIAN-pixel275/elevara-legacy) | A modern, responsive women empowerment platform built with React, Vite, and Supabase, featuring programs, community engagement, events, contact management, and an admin dashboard. | JavaScript | 1 |
-| [**HospitalManagementSystem**](https://github.com/BRIAN-pixel275/HospitalManagementSystem) | A full-stack hospital management system for managing data and patients records | Java | 0 |
 <!-- PROJECTS:END -->
 
-<sub>Last synced: <!-- LAST_UPDATED:START -->2026-09-24 03:46 UTC<!-- LAST_UPDATED:END --></sub>
+<sub>Last synced: <!-- LAST_UPDATED:START -->2026-09-24 11:20 UTC<!-- LAST_UPDATED:END --></sub>
