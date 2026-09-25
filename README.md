@@ -22,7 +22,7 @@
 <!-- This section is updated automatically by .github/workflows/update-profile.yml — don't edit by hand -->
 | Project | Description | Language | ⭐ |
 |---|---|---|---|
-| [**Ziidi**](https://github.com/BRIAN-pixel275/Ziidi) | — | HTML | 0 |
+| [**Ziidi**](https://github.com/BRIAN-pixel275/Ziidi) | — | JavaScript | 0 |
 | [**Cypher-Tool-**](https://github.com/BRIAN-pixel275/Cypher-Tool-) | A command-line Java tool for encrypting and decrypting messages using ROT13, Atbash, and Caesar ciphers | Java | 0 |
 | [**rental-tracker**](https://github.com/BRIAN-pixel275/rental-tracker) | A CLI app for tracking your own rentable items — listing, renting out, and confirming returns — built on a five-layer architecture over SQLite. | Java | 0 |
 | [**time-window-filter-**](https://github.com/BRIAN-pixel275/time-window-filter-) | — | Java | 1 |
@@ -32,4 +32,4 @@
 | [**portfolio**](https://github.com/BRIAN-pixel275/portfolio) | portfolio website for a software engineer | CSS | 0 |
 <!-- PROJECTS:END -->
 
-<sub>Last synced: <!-- LAST_UPDATED:START -->2026-09-25 16:49 UTC<!-- LAST_UPDATED:END --></sub>
+<sub>Last synced: <!-- LAST_UPDATED:START -->2026-09-25 21:14 UTC<!-- LAST_UPDATED:END --></sub>
