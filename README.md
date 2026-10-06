@@ -22,6 +22,7 @@
 <!-- This section is updated automatically by .github/workflows/update-profile.yml — don't edit by hand -->
 | Project | Description | Language | ⭐ |
 |---|---|---|---|
+| [**pesa-trail**](https://github.com/BRIAN-pixel275/pesa-trail) | — | — | 0 |
 | [**Ziidi**](https://github.com/BRIAN-pixel275/Ziidi) | — | JavaScript | 0 |
 | [**Cypher-Tool-**](https://github.com/BRIAN-pixel275/Cypher-Tool-) | A command-line Java tool for encrypting and decrypting messages using ROT13, Atbash, and Caesar ciphers | Java | 0 |
 | [**rental-tracker**](https://github.com/BRIAN-pixel275/rental-tracker) | A CLI app for tracking your own rentable items — listing, renting out, and confirming returns — built on a five-layer architecture over SQLite. | Java | 0 |
@@ -29,7 +30,6 @@
 | [**trace-finder**](https://github.com/BRIAN-pixel275/trace-finder) | TraceFinder is a Java command-line application that analyzes access logs using a CSV-based rulebook. It identifies normal activity, flags entries with higher severity levels, detects unknown activity patterns, and reports malformed log lines. | Java | 0 |
 | [**kukisa-registration**](https://github.com/BRIAN-pixel275/kukisa-registration) | A mobile-first web application designed to help the Kenyatta University Kiambu Students Association (KUKISA) register and collect information from new students from Kiambu County. | JavaScript | 1 |
 | [**creditscoreAfrica**](https://github.com/BRIAN-pixel275/creditscoreAfrica) | — | — | 0 |
-| [**portfolio**](https://github.com/BRIAN-pixel275/portfolio) | portfolio website for a software engineer | CSS | 0 |
 <!-- PROJECTS:END -->
 
-<sub>Last synced: <!-- LAST_UPDATED:START -->2026-10-06 05:29 UTC<!-- LAST_UPDATED:END --></sub>
+<sub>Last synced: <!-- LAST_UPDATED:START -->2026-10-06 12:58 UTC<!-- LAST_UPDATED:END --></sub>
