@@ -22,6 +22,7 @@
 <!-- This section is updated automatically by .github/workflows/update-profile.yml — don't edit by hand -->
 | Project | Description | Language | ⭐ |
 |---|---|---|---|
+| [**SAFIRI**](https://github.com/BRIAN-pixel275/SAFIRI) | — | — | 0 |
 | [**pesa-trail**](https://github.com/BRIAN-pixel275/pesa-trail) | A mobile-friendly, installable money tracker for recording M-PESA transactions, remembering what spending was for, and seeing where money came from. | JavaScript | 0 |
 | [**Ziidi**](https://github.com/BRIAN-pixel275/Ziidi) | — | JavaScript | 0 |
 | [**Cypher-Tool-**](https://github.com/BRIAN-pixel275/Cypher-Tool-) | A command-line Java tool for encrypting and decrypting messages using ROT13, Atbash, and Caesar ciphers | Java | 0 |
@@ -29,7 +30,6 @@
 | [**time-window-filter-**](https://github.com/BRIAN-pixel275/time-window-filter-) | — | Java | 1 |
 | [**trace-finder**](https://github.com/BRIAN-pixel275/trace-finder) | TraceFinder is a Java command-line application that analyzes access logs using a CSV-based rulebook. It identifies normal activity, flags entries with higher severity levels, detects unknown activity patterns, and reports malformed log lines. | Java | 0 |
 | [**kukisa-registration**](https://github.com/BRIAN-pixel275/kukisa-registration) | A mobile-first web application designed to help the Kenyatta University Kiambu Students Association (KUKISA) register and collect information from new students from Kiambu County. | JavaScript | 1 |
-| [**creditscoreAfrica**](https://github.com/BRIAN-pixel275/creditscoreAfrica) | — | — | 0 |
 <!-- PROJECTS:END -->
 
-<sub>Last synced: <!-- LAST_UPDATED:START -->2026-10-17 15:12 UTC<!-- LAST_UPDATED:END --></sub>
+<sub>Last synced: <!-- LAST_UPDATED:START -->2026-10-17 20:17 UTC<!-- LAST_UPDATED:END --></sub>
