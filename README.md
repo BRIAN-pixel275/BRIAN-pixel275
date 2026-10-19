@@ -22,6 +22,7 @@
 <!-- This section is updated automatically by .github/workflows/update-profile.yml — don't edit by hand -->
 | Project | Description | Language | ⭐ |
 |---|---|---|---|
+| [**portfolio-gazette**](https://github.com/BRIAN-pixel275/portfolio-gazette) | A Different theme or UI of my personal portfolio. Features a gazzete design . | TypeScript | 0 |
 | [**SAFIRI**](https://github.com/BRIAN-pixel275/SAFIRI) | — | CSS | 0 |
 | [**pesa-trail**](https://github.com/BRIAN-pixel275/pesa-trail) | A mobile-friendly, installable money tracker for recording M-PESA transactions, remembering what spending was for, and seeing where money came from. | JavaScript | 0 |
 | [**Ziidi**](https://github.com/BRIAN-pixel275/Ziidi) | — | JavaScript | 0 |
@@ -29,7 +30,6 @@
 | [**rental-tracker**](https://github.com/BRIAN-pixel275/rental-tracker) | A CLI app for tracking your own rentable items — listing, renting out, and confirming returns — built on a five-layer architecture over SQLite. | Java | 0 |
 | [**time-window-filter-**](https://github.com/BRIAN-pixel275/time-window-filter-) | — | Java | 1 |
 | [**trace-finder**](https://github.com/BRIAN-pixel275/trace-finder) | TraceFinder is a Java command-line application that analyzes access logs using a CSV-based rulebook. It identifies normal activity, flags entries with higher severity levels, detects unknown activity patterns, and reports malformed log lines. | Java | 0 |
-| [**kukisa-registration**](https://github.com/BRIAN-pixel275/kukisa-registration) | A mobile-first web application designed to help the Kenyatta University Kiambu Students Association (KUKISA) register and collect information from new students from Kiambu County. | JavaScript | 1 |
 <!-- PROJECTS:END -->
 
-<sub>Last synced: <!-- LAST_UPDATED:START -->2026-10-19 12:31 UTC<!-- LAST_UPDATED:END --></sub>
+<sub>Last synced: <!-- LAST_UPDATED:START -->2026-10-19 22:06 UTC<!-- LAST_UPDATED:END --></sub>
