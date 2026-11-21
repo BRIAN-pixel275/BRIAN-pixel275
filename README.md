@@ -22,6 +22,7 @@
 <!-- This section is updated automatically by .github/workflows/update-profile.yml — don't edit by hand -->
 | Project | Description | Language | ⭐ |
 |---|---|---|---|
+| [**anninteriordecors**](https://github.com/BRIAN-pixel275/anninteriordecors) | — | HTML | 0 |
 | [**Campusvault**](https://github.com/BRIAN-pixel275/Campusvault) | — | TypeScript | 0 |
 | [**portfolio-gazette**](https://github.com/BRIAN-pixel275/portfolio-gazette) | A Different theme or UI of my personal portfolio. Features a gazzete design . | TypeScript | 0 |
 | [**SAFIRI**](https://github.com/BRIAN-pixel275/SAFIRI) | — | CSS | 0 |
@@ -29,7 +30,6 @@
 | [**Ziidi**](https://github.com/BRIAN-pixel275/Ziidi) | — | JavaScript | 0 |
 | [**Cypher-Tool-**](https://github.com/BRIAN-pixel275/Cypher-Tool-) | A command-line Java tool for encrypting and decrypting messages using ROT13, Atbash, and Caesar ciphers | Java | 1 |
 | [**rental-tracker**](https://github.com/BRIAN-pixel275/rental-tracker) | A CLI app for tracking your own rentable items — listing, renting out, and confirming returns — built on a five-layer architecture over SQLite. | Java | 0 |
-| [**time-window-filter-**](https://github.com/BRIAN-pixel275/time-window-filter-) | — | Java | 1 |
 <!-- PROJECTS:END -->
 
-<sub>Last synced: <!-- LAST_UPDATED:START -->2026-11-21 06:08 UTC<!-- LAST_UPDATED:END --></sub>
+<sub>Last synced: <!-- LAST_UPDATED:START -->2026-11-21 18:50 UTC<!-- LAST_UPDATED:END --></sub>
