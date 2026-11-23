@@ -23,13 +23,13 @@
 | Project | Description | Language | ⭐ |
 |---|---|---|---|
 | [**linkvault-**](https://github.com/BRIAN-pixel275/linkvault-) | — | JavaScript | 0 |
-| [**anninteriordecors**](https://github.com/BRIAN-pixel275/anninteriordecors) | — | HTML | 0 |
 | [**Campusvault**](https://github.com/BRIAN-pixel275/Campusvault) | — | TypeScript | 0 |
 | [**portfolio-gazette**](https://github.com/BRIAN-pixel275/portfolio-gazette) | A Different theme or UI of my personal portfolio. Features a gazzete design . | TypeScript | 0 |
 | [**SAFIRI**](https://github.com/BRIAN-pixel275/SAFIRI) | — | CSS | 0 |
 | [**pesa-trail**](https://github.com/BRIAN-pixel275/pesa-trail) | A mobile-friendly, installable money tracker for recording M-PESA transactions, remembering what spending was for, and seeing where money came from. | JavaScript | 0 |
 | [**Ziidi**](https://github.com/BRIAN-pixel275/Ziidi) | — | JavaScript | 0 |
 | [**Cypher-Tool-**](https://github.com/BRIAN-pixel275/Cypher-Tool-) | A command-line Java tool for encrypting and decrypting messages using ROT13, Atbash, and Caesar ciphers | Java | 1 |
+| [**rental-tracker**](https://github.com/BRIAN-pixel275/rental-tracker) | A CLI app for tracking your own rentable items — listing, renting out, and confirming returns — built on a five-layer architecture over SQLite. | Java | 0 |
 <!-- PROJECTS:END -->
 
-<sub>Last synced: <!-- LAST_UPDATED:START -->2026-11-23 06:28 UTC<!-- LAST_UPDATED:END --></sub>
+<sub>Last synced: <!-- LAST_UPDATED:START -->2026-11-23 23:34 UTC<!-- LAST_UPDATED:END --></sub>
