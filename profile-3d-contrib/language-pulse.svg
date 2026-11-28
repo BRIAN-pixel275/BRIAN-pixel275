@@ -4,15 +4,15 @@
     <text x="20" y="45" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">JavaScript</text>
     <rect x="180" y="30" width="700" height="18" rx="9" fill="#101828"/>
     <rect x="180" y="30" width="303" height="18" rx="9" fill="#00E5CC"/>
-    <text x="892" y="45" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">43.2%</text>
+    <text x="892" y="45" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">43.3%</text>
     <text x="20" y="79" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">CSS</text>
     <rect x="180" y="64" width="700" height="18" rx="9" fill="#101828"/>
     <rect x="180" y="64" width="135" height="18" rx="9" fill="#5EEAD4"/>
-    <text x="892" y="79" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">19.3%</text>
+    <text x="892" y="79" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">19.2%</text>
     <text x="20" y="113" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">Java</text>
     <rect x="180" y="98" width="700" height="18" rx="9" fill="#101828"/>
     <rect x="180" y="98" width="130" height="18" rx="9" fill="#2DD4BF"/>
-    <text x="892" y="113" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">18.6%</text>
+    <text x="892" y="113" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8B98A9">18.5%</text>
     <text x="20" y="147" font-family="Consolas, Menlo, monospace" font-size="13" fill="#E6EDF3">TypeScript</text>
     <rect x="180" y="132" width="700" height="18" rx="9" fill="#101828"/>
     <rect x="180" y="132" width="86" height="18" rx="9" fill="#0EA5A0"/>
